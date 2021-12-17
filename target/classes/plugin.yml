@@ -1,0 +1,6 @@
+name: StatTrak
+description: Only a simple StatTrak plugin.
+version: 1.0
+api-version: 1.8
+author: zPedroo_
+main: com.zpedroo.stattrak.VoltzStatTrak

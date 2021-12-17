@@ -1,0 +1,30 @@
+Settings:
+  command: stattrak
+  aliases: []
+  permission: stattrak.admin
+  permission-message: '&6&lVoltz&f&lMC &8&l➜ &cVocê não possui permissão para executar esse comando!'
+  display: '&7[&f{kills} &7kills&7]'
+  apply-chance: 100
+  compatible-items:
+    - 'DIAMOND_SWORD'
+    - 'IRON_SWORD'
+    - 'GOLD_SWORD'
+    - 'WOOD_SWORD'
+    - 'DIAMOND_AXE'
+    - 'IRON_AXE'
+    - 'GOLD_AXE'
+    - 'WOOD_AXE'
+    - 'BOW'
+
+Messages:
+  already-has-stattrak: '&6&lVoltz&f&lMC &8&l➜ &cEsse item já possui StatTrak!'
+  incompatible-item: '&6&lVoltz&f&lMC &8&l➜ &cEsse item não é compatível com StatTrak!'
+
+Item:
+  type: SKULL_ITEM
+  owner: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzJlYmVhMTdjMzIzNTYzN2E3NDQ4ODczODA2MDllMzhmYWU3NDhhMjY5YzY3NThkZDA5Njk4NmYyYWI5ZjgxNCJ9fX0=
+  name: '&cStatTrak'
+  lore:
+    - '&7Aplique esse item na sua'
+    - '&7espada, machado ou arco para'
+    - '&7contabilizar suas kills!'

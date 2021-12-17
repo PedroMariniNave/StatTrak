@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="StatTrak">
+    <output-path>$USER_HOME$/Desktop/Testar/plugins</output-path>
+    <root id="archive" name="StatTrak.jar">
+      <element id="module-output" name="StatTrak [Rankup Overpower]" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/de/tr7zw/item-nbt-api-plugin/2.9.0-SNAPSHOT/item-nbt-api-plugin-2.9.0-20211130.133512-1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
